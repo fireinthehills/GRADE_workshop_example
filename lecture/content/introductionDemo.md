@@ -8,7 +8,6 @@
   - Insert equations
   - Some interactive energy level plots based on E = m$\gamma$$\hbar$B$_0$
 
-
 ## Fourier Transform NMR
 * Text Elements
   - History of use in NMR
