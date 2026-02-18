@@ -1,5 +1,7 @@
 ![logo](lecture/static/logo.png)
 
+hey there
+
 
 ## "What's in this repository?"
 
