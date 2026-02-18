@@ -1,8 +1,11 @@
-# Title of the Introduction
+# Sketch of NMR praktikum
+## NMR basics
+Nuclear spin, Larmor precession, Zeeman energy
+Insert equations, some interactive energy levels based on E = m$\gamma$B$_0$
 
-## Subheading example A)
 
-### Subsubheading A.1)
+
+## Parity vio
 
 * First list
   - Item 1
