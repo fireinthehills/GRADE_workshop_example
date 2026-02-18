@@ -1,7 +1,7 @@
 # Sketch of NMR praktikum
 ## NMR basics
 Nuclear spin, Larmor precession, Zeeman energy
-Insert equations, some interactive energy levels based on E = m$\gamma$B$_0$
+Insert equations, some interactive energy levels based on E = m$\gamma$$\hbar$B$_0$
 
 ## Fourier Transform NMR
 History of use in NMR, intro of FT and what it does, discrete FT, aliasing, phase
