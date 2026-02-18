@@ -18,4 +18,4 @@ Note here
 '''{dropdown}
 This is a dropdown
 '''
-<iframe src="(https://www.uni-mainz.de/)" height="100" width="200" name="iframename">Alternative title</iframe>
+<iframe src="https://www.uni-mainz.de/" height="100" width="200" name="iframename">Alternative title</iframe>
