@@ -5,6 +5,8 @@ hey there
 
 ## "What's in this repository?"
 
+Course Demo
+
 This is a minimalistic template repository for creating online courses in higher education created for the [DiLER](https://diler-digitell.github.io/examples.html) (Digital Literacy for Empirical Research) project, financed by [DigiTeLL](https://www.uni-frankfurt.de/106198465/Digital_Teaching_and_Learning_Lab___DigiTeLL) (Goethe-University Frankfurt).
 
 We will use this template for creating a course website in the workshop "Openness in the Higher Education Classroom" in the group session on “Working collaborative with Jupyter Book: An open-source tool to create open and flexible teaching/learning materials”, June 2025.
